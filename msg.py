@@ -71,7 +71,7 @@ L = """<i><b>👑====LEGEND PLAN USER====👑</i>
 """
 
 auth = """
-<b>🎉 Congrats [{}](tg://openmessage?user_id={7541662555}) for gaining access to Txt Extractor Bot! 🎉
+<b>🎉 Congrats [{}](tg://openmessage?user_id={8130693100}) for gaining access to Txt Extractor Bot! 🎉
 
 
 <i>Your have access to the bot as a:</i>
