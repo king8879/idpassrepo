@@ -5,7 +5,7 @@ import asyncio, logging
 logging.basicConfig(level=logging.INFO)
 LOGGER = logging.getLogger(__name__)
 LOGGER.info("Live log streaming to telegram.")
-plugins = dict(root="plugins")
+msg = dict(root="msg")
 if __name__ == "__main__":
     bot = Client(
         "Master",
